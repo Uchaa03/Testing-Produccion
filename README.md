@@ -1,4 +1,4 @@
-# Testing-Producción
+![imagen](https://github.com/user-attachments/assets/e04eb710-893d-450d-9082-39d014b93efd)# Testing-Producción
 #### Adrián Ucha Sousa / Diseño de interfaces WEB
 
 Hoy vamos a realizar un testing de producción sobre la página de mi compañero Pablo Barrera, y su proyecto de **Shibuya-Station**.
@@ -114,11 +114,9 @@ En total la página tiene un puntuación de 98 en performance que esta muy bien 
 ### Ghost Inspector
 ![imagen](https://github.com/user-attachments/assets/f5b564e6-bfb4-4089-be2c-b5bd9ecda2a9)
 Nos registramos y instalamos la extensión entonces ahora te vas a la página principal y realizar la grabación de la navegación.
-Realice 3 teset pero por alguna razón que no logré averiguar me dan error los 3
-![imagen](https://github.com/user-attachments/assets/a11212a2-26f4-4e48-9261-d2c055c9707c)
-![imagen](https://github.com/user-attachments/assets/7bd0be25-33bc-4d17-82bb-ea4340ee4238)
-Por lo tanto no puedo realizar dicho test.
-
+![imagen](https://github.com/user-attachments/assets/84619cff-9ddc-4d90-8a8c-f5b45b58973c)
+Como se puede ver el test paso correctamente y sin problemas.
+![Video de la prueba](https://github.com/user-attachments/assets/9a5257cf-c26f-4f7c-8c27-715a49f13dd9)
 
 
 
