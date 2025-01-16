@@ -56,6 +56,23 @@ Vamos a realizar test, al home en modo escritorio en firefox y google.
 ![imagen](https://github.com/user-attachments/assets/23677674-b5ff-49a8-87c9-2db4150df5f5)
 Como apreciamos las estadisticas son totalmente diferentes en cuanto a terminos de rendimeinto, en firefox rinde bastante mejor es un rendimiento normal pero mejorable según las estadisiticas mostradas en las imagenes, también tener en cuenta que son ubicaciones diferentes y motores de navegación diferentes.
 
+**Test en móvil lista**
+![imagen](https://github.com/user-attachments/assets/710bdfdd-762f-4887-b905-9e2b0ff8ee06)
+
+**Test en móvil producto**
+![imagen](https://github.com/user-attachments/assets/10da5deb-0a6c-47a1-9f3a-b4e6b2d26f14)
+Las paginas son uasbles, pero encuentra algunos problemas que requeiren modificaciones ya que tiene un tiempo de respuesta largo, eso generea problemas en la fluidez de la navegación entre secciones y páginas.
+
+**Test en escritorio lista**
+![imagen](https://github.com/user-attachments/assets/d1e6a5df-3bc4-4b68-a1b5-8e042a6aab4c)
+La pagina tiene algun problema de usabilidad igual que la de los móviles pero en cuanto al rendimiento es mucho mejor que en móvil por lo tanto la navegación es bastane mejor que en móvil.
+
+**Test en escritorio producto**
+![imagen](https://github.com/user-attachments/assets/7cfac66b-ac36-4af5-9594-5dbe0f3fda83)
+Esta tiene los mismo problemas y un rendimineto similar a la de móvil.
+
+
+
 ### PageSpeed Insights
 **Pagina Incial**
 ![imagen](https://github.com/user-attachments/assets/732065c5-a265-4f4c-ab54-6635dc1ea7e2)
