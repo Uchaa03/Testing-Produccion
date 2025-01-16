@@ -65,9 +65,16 @@ Podemos observar que el rendimiento es mejor en el modo escritorio que en el de 
 
 
 **Listado de Animes**
+![imagen](https://github.com/user-attachments/assets/95c272d0-75cb-4144-b810-5a69aba2c595)
+![imagen](https://github.com/user-attachments/assets/0dca121c-d6f8-4609-bd9c-0b5c134a725c)
 
+Aquí, podemos observar muchos más probleas de rendimiento sobre todo en móvil debido a que no esta del todo bien creado el diseño reposive el renidmiento sufre cambios de diseño importantes y la carga es mas lento debido a la gran cantidad de contenido que tiene eso hacer que en móvil sea peor todavía
 
-**Anime y Episodios**
+**Manga y Episodios**
+![imagen](https://github.com/user-attachments/assets/b99c4b13-742b-4dc0-b268-a846997d7943)
+![imagen](https://github.com/user-attachments/assets/7c17d17c-815b-4a50-8dae-58d529e01fa1)
+
+Si analizamos un manga en concreto podemos ver que el rendimiento en este caso es muchisimo peor en escritorio que en móvil ya que se muestra mucho más contenido y esta muy mal optimizado, el mayor porblema que tiene es el renderizado de tanto contenido el tiempo de respuesta es muy largo más lo comentado anteriormentes en otras secciones.
 
 
 ### Lighthouse
@@ -88,6 +95,12 @@ Algunas **recomendaciones** serian solucuionar la carga de las tipografías ya q
 En total la página tiene un puntuación de 98 en performance que esta muy bien la verdad, en navegación entre páginas si que encontramos algo de perdida de puntuación.
 
 ### Ghost Inspector
+![imagen](https://github.com/user-attachments/assets/f5b564e6-bfb4-4089-be2c-b5bd9ecda2a9)
+Nos registramos y instalamos la extensión entonces ahora te vas a la página principal y realizar la grabación de la navegación.
+Realice 3 teset pero por alguna razón que no logré averiguar me dan error los 3
+![imagen](https://github.com/user-attachments/assets/a11212a2-26f4-4e48-9261-d2c055c9707c)
+![imagen](https://github.com/user-attachments/assets/7bd0be25-33bc-4d17-82bb-ea4340ee4238)
+Por lo tanto no puedo realizar dicho test.
 
 
 
