@@ -35,5 +35,16 @@ Realizamos la validación del CSS en (poner enlace de página).
 1. **Advertencia**: Las hojas de estilo importadas no se comprueban en los modos de entrada directa y carga de archivo.
 2. **Advertencia**: Debido a su naturaleza dinámica, las variables CSS actualmente no se verifican estáticamente.
 
-Para que cumpla con los estandares de W3C se deben de corregir los siguientes errores, por lo tanto no cumple con los estandares de la página web
+Para que cumpla con los estandares de W3C se deben de corregir los siguientes errores, por lo tanto no cumple con los estandares de la página web.
+
+### Usabilidad de la web
+La página tiene una buena estructuración que permite ver claramente el contenido de la página con colores y tipografías legibles, este da a entender el concepto perfectamente de la página, el deiseño web es perfectamente navegable y con algunas transiciones para suavizar la navegación y hacerla más cómoda y no se encuentra díficultas en la navegación, en 
+móvil las transiciones son más escasas y encontramos probemas con el navbar y el contenido no es navegable en condiciones y da problemas por lo tanto en móvil no es usable.
+
+### En conclusión
+Es importante cumplir los estanadares para poder tener la página bien organizada que sea fácil de usar tanto como para móvil com para escritorio, y sobre todo la importación de navegación intituiva esta ayuda mucho a que todos los tipos de usuarios puedan entender y llegar a utilizar la página .
+
+## Pruebas de usabilidad y Velocidad
+Vamos a utilizar una serie de herramientas para testear la app y ver los resultados que obtenemos en diferenestes secciones del contenido de la pagina web.
+### WebPageTest
 
