@@ -48,3 +48,28 @@ Es importante cumplir los estanadares para poder tener la página bien organizad
 Vamos a utilizar una serie de herramientas para testear la app y ver los resultados que obtenemos en diferenestes secciones del contenido de la pagina web.
 ### WebPageTest
 
+### PageSpeed Insights
+
+
+### Lighthouse
+- **Largest Contentful Paint (LCP):** El tiempo que targa en cargar el elemento más grande es de 8.9s
+- **Interaction to Next Paint (INP):** La latencia con interación de elementos es de 130ms
+- **Cumulative Layout Shift (CLS):** El contenido es muy estable 0.008
+- **First Contentful Paint (FCP):** Tarda en mostrar el primer elemento visual 3.4s
+- **First Input Delay (FID):** El tiempo de respuesta es rapido responde al momento, excepto en el muestero de imagenes.
+- **Time to First Byte (TTFB):** El tiempo de de 114ms,es un tiempo de respuesta rápido
+
+**Recomendaciones**
+- El tiempo de carga incial es lento, probablemente debido al peso del contenido sobre todos de imagenes, comprimir imagenes para mejorar el rendimiento.
+- Habilitar la compresión de texto.
+- Optimizar el formato de las imágenes para hacerlas más pequeñas y mejorar el rendimmiento.
+- Reducir el uso de javascript excesivo y cargar los elementos solo necesarios.
+- Mejorar el minify de css quitando los comentarios innecesarios.
+
+
+
+
+
+
+
+
