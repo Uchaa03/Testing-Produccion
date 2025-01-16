@@ -1,4 +1,4 @@
-# Testing-Producciom
+# Testing-Producción
 #### Adrián Ucha Sousa / Diseño de interfaces WEB
 
 Hoy vamos a realizar un testing de producción sobre la página de mi compañero Pablo Barrera, y su proyecto de **Shibuya-Station**.
@@ -38,15 +38,23 @@ Realizamos la validación del CSS en (poner enlace de página).
 Para que cumpla con los estandares de W3C se deben de corregir los siguientes errores, por lo tanto no cumple con los estandares de la página web.
 
 ### Usabilidad de la web
-La página tiene una buena estructuración que permite ver claramente el contenido de la página con colores y tipografías legibles, este da a entender el concepto perfectamente de la página, el deiseño web es perfectamente navegable y con algunas transiciones para suavizar la navegación y hacerla más cómoda y no se encuentra díficultas en la navegación, en 
-móvil las transiciones son más escasas y encontramos probemas con el navbar y el contenido no es navegable en condiciones y da problemas por lo tanto en móvil no es usable.
+La página tiene una buena estructuración que permite ver claramente el contenido de la página con colores y tipografías legibles, este da a entender el concepto perfectamente de la página, el deiseño web es perfectamente navegable y con algunas transiciones para suavizar la navegación y hacerla más cómoda y no se encuentra díficultas en la navegación, en móvil las transiciones son más escasas y encontramos probemas con el navbar y el contenido no es navegable en condiciones y da problemas por lo tanto en móvil no es usable.
 
 ### En conclusión
-Es importante cumplir los estanadares para poder tener la página bien organizada que sea fácil de usar tanto como para móvil com para escritorio, y sobre todo la importación de navegación intituiva esta ayuda mucho a que todos los tipos de usuarios puedan entender y llegar a utilizar la página .
+Es importante cumplir los estanadares para poder tener la página bien organizada que sea fácil de usar tanto como para móvil com para escritorio, y sobre todo la importación de navegación intituiva esta ayuda mucho a que todos los tipos de usuarios puedan entender y llegar a utilizar la página la página en escritorio si que es usable
+pero para móvil considero que tiene defectos que no debería de tener, además de algunos fallitos que tampoco deberia de tener por lo tanto no cumple los estándares como tal pero una buena página a nivel de usabilidad en escritorio.
 
 ## Pruebas de usabilidad y Velocidad
 Vamos a utilizar una serie de herramientas para testear la app y ver los resultados que obtenemos en diferenestes secciones del contenido de la pagina web.
 ### WebPageTest
+Vamos a realizar test, al home en modo escritorio en firefox y google.
+**Test en Firefox**
+![imagen](https://github.com/user-attachments/assets/f9a4e349-da99-4962-a792-74b5b8dde0f8)
+
+
+**Test en Google**
+![imagen](https://github.com/user-attachments/assets/23677674-b5ff-49a8-87c9-2db4150df5f5)
+Como apreciamos las estadisticas son totalmente diferentes en cuanto a terminos de rendimeinto, en firefox rinde bastante mejor es un rendimiento normal pero mejorable según las estadisiticas mostradas en las imagenes, también tener en cuenta que son ubicaciones diferentes y motores de navegación diferentes.
 
 ### PageSpeed Insights
 
