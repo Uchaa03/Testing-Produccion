@@ -57,23 +57,37 @@ Vamos a realizar test, al home en modo escritorio en firefox y google.
 Como apreciamos las estadisticas son totalmente diferentes en cuanto a terminos de rendimeinto, en firefox rinde bastante mejor es un rendimiento normal pero mejorable según las estadisiticas mostradas en las imagenes, también tener en cuenta que son ubicaciones diferentes y motores de navegación diferentes.
 
 ### PageSpeed Insights
+**Pagina Incial**
+![imagen](https://github.com/user-attachments/assets/732065c5-a265-4f4c-ab54-6635dc1ea7e2)
+![imagen](https://github.com/user-attachments/assets/9ca872de-52f6-4688-bfef-ad5b4fa3a5a2)
+
+Podemos observar que el rendimiento es mejor en el modo escritorio que en el de móvil, principalmente porque el renderizado en el móvil es mucho mas lento que en el de escritorio, también se recomienda reducir los recursos de JS para mejor el elmento y renderizar el elemento más grande de la página para mejorar su rendimiento ya que relentiza mucho el muestreo de información sobre todo en móvil, codificar las imagenes y optimizarlas en otro formato para mejorar el rendimeinto.
+
+
+**Listado de Animes**
+
+
+**Anime y Episodios**
 
 
 ### Lighthouse
-- **Largest Contentful Paint (LCP):** El tiempo que targa en cargar el elemento más grande es de 8.9s
-- **Interaction to Next Paint (INP):** La latencia con interación de elementos es de 130ms
-- **Cumulative Layout Shift (CLS):** El contenido es muy estable 0.008
-- **First Contentful Paint (FCP):** Tarda en mostrar el primer elemento visual 3.4s
-- **First Input Delay (FID):** El tiempo de respuesta es rapido responde al momento, excepto en el muestero de imagenes.
-- **Time to First Byte (TTFB):** El tiempo de de 114ms,es un tiempo de respuesta rápido
+Vamos a realizar test de escritorio y movil.
+**Test en Escritorio**
+![imagen](https://github.com/user-attachments/assets/4621ae96-3069-4fef-a46a-15418c36cad6)
+![imagen](https://github.com/user-attachments/assets/92c8d35d-b3c3-4d3a-8d8d-84d8a14aef84)
 
-**Recomendaciones**
-- El tiempo de carga incial es lento, probablemente debido al peso del contenido sobre todos de imagenes, comprimir imagenes para mejorar el rendimiento.
-- Habilitar la compresión de texto.
-- Optimizar el formato de las imágenes para hacerlas más pequeñas y mejorar el rendimmiento.
-- Reducir el uso de javascript excesivo y cargar los elementos solo necesarios.
-- Mejorar el minify de css quitando los comentarios innecesarios.
+- **Largest Contentful Paint (LCP):** El tiempo que targa en cargar el elemento más grande es de 1s
+- **Interaction to Next Paint (INP):** Tiene una interacción entre páginas de 90ms
+- **Cumulative Layout Shift (CLS):** El contenido es muy estable 0.017
+- **First Contentful Paint (FCP):** Tarda en mostrar el primer elemento visual 0.7s
+- **First Input Delay (FID):** No tiene bloquo ni diley ninguno.
+- **Time to First Byte (TTFB):** El tiempo de de 330ms ,es un tiempo de respuesta lento.
 
+Algunas **recomendaciones** serian solucuionar la carga de las tipografías ya que esta retrasa la carca en 270ms, y reducir el código JS a la hora del despligue, cambiar el formato de las imagenes tambien es útil para liberar el peso.
+
+En total la página tiene un puntuación de 98 en performance que esta muy bien la verdad, en navegación entre páginas si que encontramos algo de perdida de puntuación.
+
+### Ghost Inspector
 
 
 
